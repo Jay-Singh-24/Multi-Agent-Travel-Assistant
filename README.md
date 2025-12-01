@@ -1,5 +1,3 @@
-Below is the **README rewritten strictly in Markdown format** (ready to paste into `README.md`).
-
 ---
 
 # 🧭 Sequential Multi-Agent Trip Planning System (Synchronous)
