@@ -1,5 +1,3 @@
----
-
 # 🧭 Sequential Multi-Agent Trip Planning System (Synchronous)
 
 A fully **synchronous, sequential, multi-agent pipeline** that generates end-to-end travel plans using a chain-of-agents architecture.
